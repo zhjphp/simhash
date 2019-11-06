@@ -1,6 +1,8 @@
 # simhash
 c++ simhash 排重算法库
 
+我仅在linux下测试
+
 参考
 
 http://yanyiwu.com/work/2014/01/30/simhash-shi-xian-xiang-jie.html
