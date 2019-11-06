@@ -25,4 +25,5 @@ cmake ..
 make -j4
 
 cd bin
+
 ./simhash
