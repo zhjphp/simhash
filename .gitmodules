@@ -1,0 +1,9 @@
+[submodule "external/cppjieba"]
+	path = external/cppjieba
+	url = https://github.com/yanyiwu/cppjieba.git
+[submodule "external/smhasher"]
+	path = external/smhasher
+	url = https://github.com/rurban/smhasher.git
+[submodule "external/glog"]
+	path = external/glog
+	url = https://github.com/google/glog.git
