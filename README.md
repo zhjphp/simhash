@@ -11,8 +11,11 @@ http://yanyiwu.com/work/2014/01/30/simhash-shi-xian-xiang-jie.html
 我测试的最适中的hash算法是cityhash
 
 使用方法：
+
 git clone xxx
+
 git submodule init
+
 git submodule update
 
 cd xxx
